@@ -1,5 +1,5 @@
 # Time-Series-Load-Forecasting
-Developed and compared different time series models for effectively capture load trend, seasonality's and other cyclical variations to generate accurate forecasts for 1 year
+For a Time Series Team Competition, developed and compared different time series models for effectively capture load trend, seasonality's and other cyclical variations to generate accurate forecasts for 1 year
 
 The following models were developed:-
 - Linear Model with Hourly, Weekly and Monthly interaction terms
